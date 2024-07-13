@@ -1,0 +1,21 @@
+#brand-image{
+    border-radius: 100%;
+    width: 50px;
+    height: 50px
+}
+
+.sidebar{
+    width: 17%;
+    height:100vh;
+    background: rgb(245 245 245)
+}
+
+.nav-link{
+    text-decoration:none;
+    width:100%;
+    padding: 5px;
+    margin: 5px 0px 5px 0px;
+    border-radius: 3%;
+    background: #ffff;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
